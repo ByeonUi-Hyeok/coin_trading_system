@@ -1,5 +1,9 @@
 # coin_trading_system
 A system that automatically trades COIN to produce the best results
+# 코인인 이유
+ - 주식 api(증권사)는 특정환경에서만 사용가능
+ - 코인은 모든환경에서 사용가능
+ -
 
 ## 요구사항
  - 코인을 자동으로 구매하고 판매한다. 
